@@ -1,0 +1,29 @@
+{
+  "navers": [
+    {
+      "id": 1,
+      "name": "Jon Doe",
+      "image_url": "https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "image_url": "https://i.picsum.photos/id/1016/3844/2563.jpg?hmac=WEryKFRvTdeae2aUrY-DHscSmZuyYI9jd_-p94stBvc"
+    },
+    {
+      "id": 3,
+      "name": "Rhea McLaughlin",
+      "image_url": "https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg"
+    },
+    {
+      "id": 4,
+      "name": "Filiberto Tremblay",
+      "image_url": "https://i.picsum.photos/id/1021/2048/1206.jpg?hmac=fqT2NWHx783Pily1V_39ug_GFH1A4GlbmOMu8NWB3Ts"
+    },
+    {
+      "id": 5,
+      "name": "Lizeth Stracke",
+      "image_url": "https://i.picsum.photos/id/1012/3973/2639.jpg?hmac=s2eybz51lnKy2ZHkE2wsgc6S81fVD1W2NKYOSh8bzDc"
+    }
+  ]
+}
